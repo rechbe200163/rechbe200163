@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on a Business advancement tool<br>I'm currently studying
+# 💫 About Me:<br>I'm currently studying
 
 
 # 💻 Tech Stack:
